@@ -1,23 +1,24 @@
 h1 {
     background-color: #4aaaa5;
-    font: size 45; 
-
-}
-.jumbotron{
-    background-color: #ffffff
-}
-.jumbotron, h1 {
     color:white;
     font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    text-align: center
 }
 h2{
-    color:#4aaaa5;
-    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
-    
+    color:#4aaaa5;   
 }
 #link{
-    color:#777777
+    color:#777777;
+    text-align: left
 }
 #box {
 	height: 150px;
 }
+/* Style the header */
+header {
+    background-color:  #ffffff;
+    padding: 10px;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    border-bottom-style: solid;
+    border-bottom-color:#cccccc;
+  }
