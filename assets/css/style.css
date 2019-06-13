@@ -1,7 +1,23 @@
 h1 {
-	background-color: #4aaaa5
-}
+    background-color: #4aaaa5;
+    font: size 45; 
 
-h1 {
-	color:white;
+}
+.jumbotron{
+    background-color: #ffffff
+}
+.jumbotron, h1 {
+    color:white;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+}
+h2{
+    color:#4aaaa5;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    
+}
+#link{
+    color:#777777
+}
+#box {
+	height: 150px;
 }
